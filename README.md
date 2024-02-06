@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A very simple cocktail website built with coktail apis using ReactJs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
